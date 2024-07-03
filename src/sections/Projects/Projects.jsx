@@ -22,7 +22,7 @@ function Projects() {
           src={company}
           link="https://celadon-stroopwafel-3ea309.netlify.app/"
           h3="corporate website"
-          p="A "
+          p="Website for an agency"
         />
         
         <ProjectCard
@@ -35,7 +35,7 @@ function Projects() {
           src={HotelPage}
           link="https://www.linkedin.com/feed/update/urn:li:activity:7211741628917587971/"
           h3="Arklyte"
-          p="A travell booking website"
+          p="Travell booking website"
         />
         <ProjectCard
           src={budjet}
