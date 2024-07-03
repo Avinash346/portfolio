@@ -14,7 +14,7 @@ function Projects() {
       <div className={styles.projectsContainer}>
         <ProjectCard
           src={dhun}
-          link="https://dhun-27yl8hxzm-avinashs-projects-d9cd0e18.vercel.app/"
+          link="https://dhun-avinashs-projects-d9cd0e18.vercel.app/"
           h3="dhun"
           p="Music streaming App"
         />
